@@ -9,7 +9,7 @@ title:            Nattfodd
 tagline:          'Aleksey Nattfodd Kuznietsov'
 description:      'Yet another blog on the Internet. Personal life, software development, photography, travelling and so on.'
 url:              'http://nattfodd.com'
-baseurl:          ''
+baseurl:          '/'
 
 author:
   name:           'Aleksey Kuznietsov'
