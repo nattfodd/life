@@ -17,7 +17,6 @@ gem 'jekyll', '~> 3.8.5'
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 
-gem 'redcarpet', '~> 3.4'
 gem 'rouge', '~> 3.3'
 
 # If you have any plugins, put them here!
