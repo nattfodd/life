@@ -8,8 +8,8 @@ permalink:        pretty
 title:            Nattfodd
 tagline:          'Aleksey Nattfodd Kuznietsov'
 description:      'Yet another blog on the Internet. Personal life, software development, photography, travelling and so on.'
-url:              http://nattfodd.com
-baseurl:          /
+url:              'http://nattfodd.com'
+baseurl:          ''
 
 author:
   name:           'Aleksey Kuznietsov'
