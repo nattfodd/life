@@ -6,20 +6,24 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Nattfodd
+tagline:          'Aleksey Nattfodd Kuznietsov'
+description:      'Yet another blog on the Internet. Personal life, software development, photography, travelling and so on.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Aleksey Kuznietsov'
+  url:            https://twitter.com/nattf0dd
 
-paginate:         5
+paginate:         10
 
 # Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+social:
+  twitter:          https://twitter.com/nattf0dd
+  facebook:         https://www.facebook.com/nattf0dd
+  github:           https://github.com/nattfodd
+  stackoverflow:    https://stackoverflow.com/users/7177640/nattfodd
+  linkedin:         https://www.linkedin.com/in/oleksii-kuznietsov-42655487/
+  telegram:         https://telegram.me/nattf0dd
+  cv:               https://docs.google.com/document/d/1HOAfsZZ5_wCHcCxRnaZPuxT571eIPcjKmB1y34tMkZU

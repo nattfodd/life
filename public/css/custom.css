@@ -1,0 +1,93 @@
+@media only screen and (min-width:768px) {
+  .socials {
+    margin: ;
+    padding: 10px 40px
+  }
+}
+
+@media only screen and (min-width:1024px) {
+  .socials {
+    margin: 27px 0 0;
+    padding: 0
+  }
+}
+
+@media only screen and (min-width:1220px) {
+  .socials {
+    margin-top: 35px
+  }
+}
+
+.socials .socials-item-link {
+  background: rgba(255, 255, 255, .7);
+  color: #161B21
+}
+
+.socials .socials-item-link:hover {
+  background: #fff;
+  color: #161B21
+}
+
+.socials {
+  list-style: none;
+  margin: 2rem 0 0 0;
+  padding: 0
+}
+
+.socials-item {
+  display: inline-block;
+  margin-left: 2px
+}
+
+.socials-item:first-child {
+  margin-left: 0
+}
+
+.socials-item-link {
+  position: relative;
+  display: block;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  background: #ABB7B7;
+  font-size: 17px;
+  line-height: 1;
+  color: #fff
+}
+
+@media only screen and (min-width:768px) {
+  .socials-item-link {
+    width: 40px;
+    height: 40px;
+    font-size: 20px
+  }
+}
+
+.socials-item-link svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translate(-50%, -52%);
+  -o-transform: translate(-50%, -52%);
+  -ms-transform: translate(-50%, -52%);
+  -webkit-transform: translate(-50%, -52%);
+  transform: translate(-50%, -52%)
+}
+
+.socials-item-link:hover {
+  background: #A2DED0;
+  color: #fff
+}
+
+/* Overriding classes */
+
+a.sidebar-nav-item {
+  color: #BDBDBD;
+}
+
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+

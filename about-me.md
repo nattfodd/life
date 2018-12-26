@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-Greetings, my friend!
+# Greetings, my friend!
 
 I'm Aleksey Kuznietsov. I live in Kharkiv, Ukraine.
 
