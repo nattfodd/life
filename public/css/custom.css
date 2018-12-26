@@ -94,6 +94,12 @@ a.read-more-link:hover {
   background-color: #ABB7B7;
 }
 
+/* For YouTube */
+iframe {
+  margin: 0 0 0.8rem 0;
+  display: block;
+}
+
 /* Overriding classes */
 
 a.sidebar-nav-item {
