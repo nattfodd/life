@@ -4,13 +4,14 @@ title: Listen to Radio Nattfodd!
 date: 2018-12-26 15:25:00
 ---
 
-Despite the fact that the word "meloman" IMO lost it's original meaning, I believe I can call myself one. My music taste is mostly about different kinds of metal. Plus, some exclusions for the mood. I listen to music by albums, and I advise you to do so.
+I am a music lover for sure. My music taste is mostly about different kinds of metal. Plus, some exclusions for the mood. I listen to music by albums, and I advise you to do so.
 
 There're so many interesting releases, so I tend to forget about some of them.
 
 To memorize them all, and also to share interesting albums with anyone who's interested in, I've created a [Telegram channel](https://t.me/radio_nattfodd). You can find there something to listen.
 
-This is what I've posted there so far, so you can have an overview if it worth joining the channel or not:
+This is what I've posted there so far so you can have an overview if it worth joining the channel or not:
+
 <!--more-->
 
   * Muse - Simulation Theory / 2018 / 🇬🇧 / Art/Progressive/Alternative Rock
@@ -33,3 +34,5 @@ This is what I've posted there so far, so you can have an overview if it worth j
   * Phlebotomized - Deformation Of Humanity / 2019 / 🇳🇱 / Progressive/Death Metal
 
 See you there! 🤙
+
+P.S. Also follow me on [LastFM](https://www.last.fm/user/FlyingKiller) and [Spotify](https://open.spotify.com/user/ng2ntvi0mptu5j40fxd4essn7?si=tICPLFstSi6MICfYje452w)!
