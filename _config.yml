@@ -16,7 +16,10 @@ author:
   name:           'Aleksey Kuznietsov'
   url:            https://twitter.com/nattf0dd
 
-paginate:         10
+paginate:          10
+
+excerpt:           'Read more...'
+excerpt_separator: <!--more-->
 
 # Custom vars
 social:
@@ -27,3 +30,4 @@ social:
   linkedin:         https://www.linkedin.com/in/oleksii-kuznietsov-42655487/
   telegram:         https://telegram.me/nattf0dd
   cv:               https://docs.google.com/document/d/1HOAfsZZ5_wCHcCxRnaZPuxT571eIPcjKmB1y34tMkZU
+  youtube:          https://www.youtube.com/channel/UC_u_udKTu0vjncd8N3VPT-w?view_as=subscriber

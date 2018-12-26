@@ -1,3 +1,5 @@
+/* Social Network links */
+
 @media only screen and (min-width:768px) {
   .socials {
     margin: ;
@@ -77,6 +79,19 @@
 .socials-item-link:hover {
   background: #A2DED0;
   color: #fff
+}
+
+/* */
+
+a.read-more-link {
+  padding: 0.5rem;
+  color: #FFFFFF;
+  background-color: #202020;
+}
+
+a.read-more-link:hover {
+  text-decoration: none;
+  background-color: #ABB7B7;
 }
 
 /* Overriding classes */
