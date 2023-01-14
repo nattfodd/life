@@ -6,13 +6,13 @@ permalink:        pretty
 
 # Setup
 title:            Nattfodd
-tagline:          'Aleksey Nattfodd Kuznietsov'
-description:      'Yet another blog on the Internet. Personal life, software development, photography, travelling and so on.'
-url:              'https://nattfodd.com'
+tagline:          'Oleksii Nattfodd Kuznietsov'
+description:      'Yet another blog on the Internet. Personal life, software development, photography, traveling and so on.'
+url:              'https://life.nattfodd.com'
 baseurl:          '/'
 
 author:
-  name:           'Aleksey Kuznietsov'
+  name:           'Oleksii Kuznietsov'
   url:            https://twitter.com/nattf0dd
 
 paginate:          10
